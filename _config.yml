@@ -1,0 +1,10 @@
+
+# Site settings
+title: "Spring 2016"
+email: "mister.argote 小老鼠 gmail 點 com"
+baseurl: "/spring16" 
+url: "https://mrargote.github.io" 
+
+# Build settings
+twitter: mrargote
+markdown: kramdown
