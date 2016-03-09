@@ -1,4 +1,7 @@
 ---
+title: Two Nina Simone Songs
+class: three
+act: I
 ---
 
 From Spotify, Artist page, top ten played songs.
