@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Two Nina Simone Songs
 class: three
 act: I
