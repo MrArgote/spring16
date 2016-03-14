@@ -1,8 +1,11 @@
 ---
-title: Week 3
+layout: post
+title: Textbook and Dropbox
+class: 英一
+day: three
 ---
 
-Contents
+## Contents
 - First Act Grades
 - Dropbox Set-up
 - Reminders for Week 4

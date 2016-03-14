@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Terminal and more
-class: three
-day: 4
+class: 英三
+day: four
 ---
 
 Today, 

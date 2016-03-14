@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Back To School From Winter Holidays"
-class: two
-day: 1
+class: 英二
+day: one
 ---
 
 - On the cover of your new notebooks write: English name, Chinese name, student number, and seat number.

@@ -1,5 +1,8 @@
 ---
-title: One Week 2 Feeling Good
+layout: post
+title: Feeling Good
+class: 英一
+day: two
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "A Strong Tremor Adds Excitement To The Mock Test"
+class: 英三
+day: one
 ---
 
 The day was supposed to be a grueling one.

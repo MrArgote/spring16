@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Oscars Whitewashing
+class: 英二
+day: two
 ---
 
 Contents

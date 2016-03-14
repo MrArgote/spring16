@@ -1,8 +1,11 @@
 ---
-
+layout: post
+title: Cover Page, What The Dog Is Thinking and What Kind of Parent...
+class: 英三
+day: two
 ---
 
-Contents
+## Contents
 * Hello Again
 * Today's Work
 	* Make New Dropbox Folders

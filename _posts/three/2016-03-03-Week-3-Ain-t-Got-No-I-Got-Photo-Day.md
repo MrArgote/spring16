@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Two Nina Simone Songs
-class: three
-act: I
+class: 英三
+day: three
 ---
 
 From Spotify, Artist page, top ten played songs.

@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Back To School
+class: 英一
+day: one
 ---
 In your notebook:
 - On Cover
@@ -16,7 +19,6 @@ In your notebook:
 
 - Dropbox 
 	- Make new folder, '45-Beth'
-	- antonio.argote@gmail.com
 
 These directives must not have been properly expressed.
 No one made and shared the Dropbox folder and it's unclear what work was done in the notebook.

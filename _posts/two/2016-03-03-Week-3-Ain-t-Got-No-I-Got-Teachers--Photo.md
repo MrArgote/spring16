@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Ain't Got No, I Got Teachers' Photo
+class: 英二
+day: three
 ---
 
 Nina Simone
