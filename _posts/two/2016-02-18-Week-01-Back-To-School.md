@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Back To School From Winter Holidays"
+class: two
+day: 1
 ---
 
 - On the cover of your new notebooks write: English name, Chinese name, student number, and seat number.
@@ -24,6 +26,7 @@ title: "Back To School From Winter Holidays"
 ### Shirataki Station
 
 - Please share your thoughts, 
+- and/or write a brief summary,
 - and/or answer one of the following questions:
 	- What route do you like taking?
 	- What route do you miss?
