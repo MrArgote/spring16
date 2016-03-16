@@ -2,7 +2,7 @@
 layout: post
 title: Sausage Party and a little politics
 class: 英三
-day: 5
+day: five
 ---
 
 On March 17th, 

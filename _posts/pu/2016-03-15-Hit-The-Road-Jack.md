@@ -2,7 +2,7 @@
 layout: post
 title: Hit The Road Jack
 class: 普二
-day: 4
+day: four
 ---
 
 ## Contents
