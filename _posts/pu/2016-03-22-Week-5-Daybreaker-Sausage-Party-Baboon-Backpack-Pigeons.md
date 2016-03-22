@@ -14,8 +14,6 @@ day: five
 Good morning.
 Sausage party?
 
-{% include clips/videos/Sausage-Party.md %}
-
 ## Daybreakers
 
 Morning Party
@@ -34,6 +32,8 @@ dancing, community, human relationships,
 Too noisy
 They are very high, very excited.
 They are not drunk. Most people are not drunk.
+
+{% include clips/videos/Daybreakers.md %}
 
 ## Sausage Party
 
@@ -77,11 +77,14 @@ He disappeared a card for the baboon.
 What is the monkey thinking?
 What did the monkey expect?
 
+![A Card Trick](https://57.media.tumblr.com/ea7e8a323a64f3adb2da594cf288dab6/tumblr_o463vteiqG1tlb56zo1_500.gif)
+
 ## Pigeons with Backpacks
 
 Pollution in London.
 
 Sensors measure the environment. 
 
+{% include clips/videos/Pigeons-With-Backpacks.md %}
 
 
