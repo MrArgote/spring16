@@ -188,12 +188,12 @@
     font-size: $small-font-size;
     color: $grey-color;
     &-class {
-	    border-radius: 15%;
+	    border-radius: 15% / 50% ;
 	    padding: 7px;
 	    background-color: #FCD;
     }
     &-day {
-	    border-radius: 15%;
+	    border-radius: 15% / 50% ;
 	    padding: 7px;
 	    background-color: #DDF;
     }

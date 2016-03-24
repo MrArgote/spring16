@@ -10,8 +10,10 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-	<span class="post-meta-class">&nbsp;  {{ post.class }} &nbsp; </span>
-	<span class="post-meta-day">&nbsp; day {{ post.day }} &nbsp; </span>
+	&nbsp;
+	<span class="post-meta-class"> {{ post.class }}  </span>
+	&nbsp;
+	<span class="post-meta-day"> day {{ post.day }}  </span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
