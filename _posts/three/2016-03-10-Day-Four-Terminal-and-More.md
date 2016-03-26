@@ -33,3 +33,5 @@ what can we write about?
 {% include lyrics/OK-Go-Here-It-Goes-Again.md %}
 
 ## McDonald's Coming Out Commercial
+{% include clips/videos/McDonald-s-Coming-Out.md %}
+
