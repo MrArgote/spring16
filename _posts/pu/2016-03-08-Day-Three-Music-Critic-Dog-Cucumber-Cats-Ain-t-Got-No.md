@@ -46,3 +46,4 @@ Rewatch,
 
 Nina Simone sang this song.
 
+{% include lyrics/Nina-Simone-Ain-t-Got-No.md %}
