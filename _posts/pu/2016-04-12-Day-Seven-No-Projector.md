@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No projector cable
+title: 詞性 & Review Group 1 Words
 class: 普二
 day: seven
 ---
@@ -10,7 +10,8 @@ day: seven
 
 ## Some Review Of Unit 1
 
-Reviewed what the parts of speech are:
+
+Reviewed what the parts of speech (詞性) are:
 - article, adjective, noun,
 - verb, adverb
 - preposition, pronoun, conjuntion,
