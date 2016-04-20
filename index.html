@@ -4,10 +4,17 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+	<a href="{{site.baseurl}}/index-one.html" class="post-meta-class">One - 英一</a>
+	<a href="{{site.baseurl}}/index-pu.html" class="post-meta-class">Pu - 普二</a>
+	<a href="{{site.baseurl}}/index-two.html" class="post-meta-class">Two - 英二</a>
+	<a href="{{site.baseurl}}/index-three.html" class="post-meta-class">Three - 英三</a>
 
+	<br>
+	<br>
+
+  <h1 class="page-heading">Posts</h1>
   <ul class="post-list">
-    {% for post in site.posts %}
+	{% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 	&nbsp;
