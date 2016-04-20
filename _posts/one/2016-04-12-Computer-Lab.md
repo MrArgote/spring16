@@ -5,5 +5,6 @@ class: 英一
 day: seven
 ---
 
-## Contents
+No computer or projector today.
+
 
