@@ -7,18 +7,18 @@ class: 英二
 
 
 ## Contents
-	- Housekeeping
-	- The dog that doesn't learn English
-	- Molten Cheese
+  - Housekeeping
+  - The dog that doesn't learn English
+  - Molten Cheese
 
 ## Housekeeping
 
-antonio.argote@gmail.com
+Hand out replacement notebooks.
+Share your Dropbox.
 
 ## The dog that doesn't learn English
  
 ## Cheese Makes Everything Better
-
 
 Raclette
 Raclette de Chévre (goat Raclette)
