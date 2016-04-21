@@ -1,5 +1,8 @@
 ---
 layout: post
+
+class: 英三
+day: eight
 ---
 
 
