@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Back To School From Winter Holidays"
 class: 英二
 day: one

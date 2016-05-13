@@ -2,8 +2,16 @@
 # Site settings
 title: "Spring 2016"
 email: "mister.argote 小老鼠 gmail 點 com"
-baseurl: "/spring16" 
-url: "https://mrargote.github.io" 
+baseurl: "/spring16"
+url: "https://mrargote.github.io"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 # Build settings
 twitter: mrargote

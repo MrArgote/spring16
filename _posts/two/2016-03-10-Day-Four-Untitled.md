@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Here It Goes Again and McDonald's Coming Out Commercial
 class: 英二
 day: four

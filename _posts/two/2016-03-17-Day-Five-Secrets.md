@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Secrets
 class: 英二
 day: five

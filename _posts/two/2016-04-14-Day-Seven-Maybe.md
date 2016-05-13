@@ -1,5 +1,4 @@
 ---
-layout: post
 title: we'll see
 day: seven
 class: 英二
