@@ -1,10 +1,7 @@
 ---
-layout: post
-
 class: 英三
 day: eight
 ---
-
 
 ## Movies & TV
 
@@ -42,18 +39,8 @@ KAISR: The Inflatable Sofa on IndieGogo
 
 "Distance doesn't separate people... Silence does."
 
-
-
-
-
-
 ## Vocabulary
-
 
 echolocation = a skill well-honed by bats
 trailer = 預告
-spoiler = 
-
-
-
 
