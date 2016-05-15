@@ -8,7 +8,6 @@ url: "https://mrargote.github.io"
 defaults:
   -
     scope:
-      path: ""
       type: "posts"
     values:
       layout: "post"
