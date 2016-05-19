@@ -4,6 +4,8 @@ layout: default
 
 <div class="home">
 
+	<h1>Which one is your class?</h1>
+
 	<a href="{{site.baseurl}}/index-one.html" class="post-meta-class">One - 英一</a>
 	<a href="{{site.baseurl}}/index-pu.html" class="post-meta-class">Pu - 普二</a>
 	<a href="{{site.baseurl}}/index-two.html" class="post-meta-class">Two - 英二</a>
@@ -11,22 +13,5 @@ layout: default
 
 	<br>
 	<br>
-
-  <h1 class="page-heading">All Posts</h1>
-  <ul class="post-list">
-	{% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-	&nbsp;
-	<span class="post-meta-class"> {{ post.class }}  </span>
-	&nbsp;
-	<span class="post-meta-day"> day {{ post.day }}  </span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 
 </div>
