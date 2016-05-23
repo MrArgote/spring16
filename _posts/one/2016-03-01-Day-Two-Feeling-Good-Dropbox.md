@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Feeling Good
 class: 英一
 day: two
 ---
 
 
-Review units one and go over beginning of two.
+- Review units one and go over beginning of two.
+- Write a Contents page in your notebook
+- Rename files in Dropbox
 
 Write "Contents" at the top of page 3, (page 2, or the last page, if page 3 has been used)
 

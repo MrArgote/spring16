@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Textbook and Dropbox
 class: 英一
 day: three
 ---
 
-## Contents
 - First Act Grades
 - Dropbox Set-up
 - Reminders for Week 4
@@ -26,7 +24,7 @@ Grade:
 Went from about a dozen dropbox-ready students, to a couple dozen.
 
 
-## Reminders for Week 4: 
+## Reminders for Week 4:
 - you should probably already have an entry for Week 1 on *The Dog's Thoughts* (or *What Is The Dog Thinking?*)
 - Write a brief summary.
 - Add an entry to the Contents Page.
@@ -35,4 +33,4 @@ Went from about a dozen dropbox-ready students, to a couple dozen.
 
 - Material for the day maybe:
 	- Buzzfeed: Kinds of Mom
-	- Nina Simone - Feeling Good 
+	- Nina Simone - Feeling Good

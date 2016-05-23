@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Back To School
 class: 英一
 day: one
 ---
+
+- First things to write on your notebook.
+- Make new directory in your Dropbox.
+
 In your notebook:
 - On Cover
   - English Name
@@ -17,7 +20,7 @@ In your notebook:
 - Page 5
   - Write the date, at the top, and what the dog is thinking.
 
-- Dropbox 
+- Dropbox
 	- Make new folder, '45-Beth'
 
 These directives must not have been properly expressed.

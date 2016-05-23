@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Stood Up
 class: 英一
 day: four
 ---
 
-## Contents
 - Late Start Because of First Years' Assembly
 - Velcro Seating Chart
 - Dropbox

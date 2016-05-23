@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Daybreakers
 class: 英一
 day: five
 ---
 
-## Contents
 - Daybreakers
 
 Good morning.
