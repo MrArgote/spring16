@@ -3,8 +3,6 @@ class: 英一
 day: eleven
 ---
 
-## Contents
-
 - Train Driver Runs To Warn Passengers
 - So You Took Our Job
 
