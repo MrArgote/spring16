@@ -5,6 +5,8 @@ day: twelve
 
 - Reminder
 - Today's Jinggao (警告)
+- The Beauty and The Beast
+- Kids Try Yoga
 
 
 Reminder
@@ -50,7 +52,7 @@ She studies.
 
 The first thing you can write about is about
 
-The Beauty And The Beast.
+## The Beauty And The Beast.
 with Emma Watson
 
 movie trailer
@@ -59,7 +61,9 @@ dark
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGoodMorningAmerica%2Fvideos%2Fvb.59306617060%2F10153633298992061%2F%3Ftype%3D3&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
+## Kids Try Yoga
 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBuzzFeedVideo%2Fvideos%2Fvb.1318800798260799%2F1977658665708339%2F%3Ftype%3D3&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
 
