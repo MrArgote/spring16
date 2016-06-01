@@ -1,17 +1,14 @@
 ---
-layout: post
 title: 詞性 Review, Group 2 words, and fb feed
 class: 普二
 day: eight
 ---
 
-## Contents
 - Review
 	- Parts of Speech, Phrases, Objects, Subjects and Predicates
-- Notebook
-	- Mom Cuts Up Selfies
-	- Winnie The Pooh 
-	- Hire a Helping Hand
+- Mom Cuts Up Selfies
+- Winnie The Pooh
+- Hire a Helping Hand
 - Textbook, Word Group 2
 
 ## Review
@@ -26,20 +23,20 @@ Parts of Speech - 詞性
 	- singular - 單數
 	- plural - 複數
    - proper and common
-	- proper, e.g. Taizhong, London, Betty, Michael 
+	- proper, e.g. Taizhong, London, Betty, Michael
 	- common, e.g. apple, train, fear, speed,
 - adjective - 形容詞
 - adverb - 副詞
 - preposition - 介係詞
-- pronoun - 代名詞, 
+- pronoun - 代名詞,
 	- subject pronouns, e.g. I, you, she/he/it, we, they
 	- object pronouns, e.g. me, you, her/him/it, us, them
 - conjunction - 連接詞
 - article - 冠詞 -  e.g. a/an, the, some, my, your, her/his/its , our, their
-- interjection - 感嘆詞 - 
+- interjection - 感嘆詞 -
 
 - subject - 主詞
-- predicate - 
+- predicate -
 	- verb - 動詞
 	- object - 受詞
 
@@ -53,10 +50,10 @@ example sentences:
 pronoun         verb   article   noun
    |             |          \   /
 noun phrase       \      noun phrase
-   |          verb phrase     | 
+   |          verb phrase     |
    |               |          |
    |               \        object
-   |                \         /  
+   |                \         /
 subject               predicate
       \                /
         \            /
@@ -70,11 +67,11 @@ A          cat      eats        fish.
  \          |        |            |
 article    noun    verb         noun
     \       /        |            |
-   noun phrase       |       noun phrase 
+   noun phrase       |       noun phrase
        \         verb phrase      /
         |             \        object
       subject           \       /
-         |              predicate 
+         |              predicate
           \               /
             \            /
                sentence
@@ -83,17 +80,17 @@ article    noun    verb         noun
 - noun phrase + verb + noun phrase
 
 
-noun phrase => a cute dog
-noun phrase => an ugly cat
-verb => swim
-verb => eat
+- noun phrase => a cute dog
+- noun phrase => an ugly cat
+- verb => swim
+- verb => eat
 
-A cute dog swims.
-noun phrase + verb
+- A cute dog swims.
+- noun phrase + verb
 
 A     cute      dog      swims     in    the      pool.
 art.   adj.    noun      verb    prep.   art.   noun.
- noun phrase             verb    prep.    noun phrase.
+noun phrase             verb    prep.    noun phrase.
 noun phrase + verb + prepositional phrase
 
 A cute dog swims under the water.
@@ -113,7 +110,7 @@ She found her son's magazines.
 Her son feels bad because he saw the magazines with his mother's picture.
 Her son felt bad because he saw the magazines with his mother's picture.
 
-### Winnie The Pooh 
+### Winnie The Pooh
 
 A yellow bear wears a red t-shirt.
 

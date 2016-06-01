@@ -5,7 +5,6 @@ class: 普二
 day: three
 ---
 
-Contents
 - Dropbox Notebook
 - Elaborate on "Annnoyed Dog"
 - "Cats Scared of Cucumbers"
@@ -18,7 +17,7 @@ Add items to Contents page.
 
 ## Notes on the "Annoyed Dog":
 Rewatch,
-- .gif 
+- .gif
 - yellow // blond
 - big
 - the master is playing a guitar

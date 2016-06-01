@@ -1,11 +1,9 @@
 ---
-layout: post
 title: 詞性 & Review Group 1 Words
 class: 普二
 day: seven
 ---
 
-## Contents
 - Review Some Of Unit 1
 
 ## Some Review Of Unit 1
