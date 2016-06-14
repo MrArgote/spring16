@@ -27,28 +27,28 @@ Make Dropbox folder.
 3 plural          - they
 
 
-The desk is beautiful.
-I watch TV.
-I broke my leg.
-I go to swim.
-I do my homework.
-I bought my pencils.
-I see the movie.
-I play.
-I play on the phone.
-I play on the computer.
-We play games.
-I play sports.
-You play ball.
-We sing a song.
-We make cake.
-I brush my teeth.
-I drink tea.
-You eat sticky tofu.
+The desk is beautiful.  
+I watch TV.  
+I broke my leg.  
+I go to swim.  
+I do my homework.  
+I bought my pencils.  
+I see the movie.  
+I play.  
+I play on the phone.  
+I play on the computer.  
+We play games.  
+I play sports.  
+You play ball.  
+We sing a song.  
+We make cake.  
+I brush my teeth.  
+I drink tea.  
+You eat sticky tofu.  
 
-I play basketball.
-You cut the paper.
-She studies.
+I play basketball.  
+You cut the paper.  
+She studies.  
 
 The first thing you can write about is about
 
