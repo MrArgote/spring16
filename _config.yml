@@ -16,5 +16,7 @@ defaults:
       layout: "post"
 
 # Build settings
-twitter: mrargote
 markdown: kramdown
+twitter_username: mrargote
+github_repo: MrArgote/spring16
+LINE_ID: antonioargote
