@@ -6,14 +6,16 @@ layout: default
 
 	<h1>Which one is your class?</h1>
 
-	<a href="{{site.baseurl}}/index-one.html" class="post-meta-class">One - 英一</a>
-	<a href="{{site.baseurl}}/index-pu.html" class="post-meta-class">Pu - 普二</a>
-	<a href="{{site.baseurl}}/index-two.html" class="post-meta-class">Two - 英二</a>
-	<a href="{{site.baseurl}}/index-three.html" class="post-meta-class">Three - 英三</a>
-
+	<br>
+	<br>
+      <div class="trigger">
+        {% for my_page in site.pages %}
+          {% if my_page.class %}
+          <a class="post-meta-class" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% endif %}
+        {% endfor %}
 	<br>
 	<br>
 	Line: antonioargote
-	<br>
-	<br>
+      </div>
 </div>
