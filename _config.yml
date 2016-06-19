@@ -3,7 +3,7 @@
 title: "Spring 2016"
 email: "mister.argote 小老鼠 gmail 點 com"
 baseurl: "/spring16"
-url: "https://mrargote.github.io"
+url: "http://s16.argote.org"
 description: "Students of Mr. Argote's classes at Tzu-Ming H.S., 慈明 in the spring semester of 2016."
 
 permalink: pretty
@@ -17,6 +17,6 @@ defaults:
 
 # Build settings
 markdown: kramdown
-twitter_username: mrargote
-github_repo: MrArgote/spring16
-LINE_ID: antonioargote
+twitter_username: "mrargote"
+github_repo: "MrArgote/spring16"
+LINE_ID: "antonioargote"
