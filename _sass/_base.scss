@@ -215,9 +215,10 @@ pre {
         width: 16px;
         height: 16px;
         vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
+    }
+    &--line {
+       > svg {
+          width: 28px;
+       }
     }
 }
