@@ -1,5 +1,4 @@
 ---
-class: 普二
 day: twelve
 ---
 
@@ -7,6 +6,7 @@ day: twelve
   + Be Our Guest
   + Trailer for 2017's Beauty and The Beast
 - Kids Try Yoga
+- Ball Of Eyes
 - Going Into The MRT
 - The Present: A Gift Dog
 

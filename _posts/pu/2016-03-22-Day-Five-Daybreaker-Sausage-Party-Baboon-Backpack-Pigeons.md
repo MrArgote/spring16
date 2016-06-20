@@ -1,6 +1,5 @@
 ---
 title: Daybreakers, Sausage Party, Flabbergasted Monkey, and Pigeons With Backpacks
-class: 普二
 day: five
 ---
 

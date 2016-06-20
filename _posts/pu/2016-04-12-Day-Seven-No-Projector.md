@@ -1,10 +1,10 @@
 ---
 title: 詞性 & Review Group 1 Words
-class: 普二
 day: seven
 ---
 
-- Review Some Of Unit 1
+- Review Unit 1 and Parts Of Speech
+  - Vocabulary
 
 ## Some Review Of Unit 1
 

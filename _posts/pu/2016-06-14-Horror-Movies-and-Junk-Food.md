@@ -1,12 +1,15 @@
 ---
-
-class: 普二
 day: fifteen
 ---
 
 - Don't Forget to [Join Our Duolingo Class](https://www.duolingo.com/o/szejgv)
 - The Conjuring
+  - The Sequel
+  - The Original
 - Earth Song
+- Recycling Old Mattresses into Giant Food Sculptures
+- Van Gogh on Dark Water
+- Textbook: Which Word Am I
 
 ## Duolingo
 

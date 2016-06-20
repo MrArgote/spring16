@@ -1,6 +1,5 @@
 ---
 title: Hit The Road Jack
-class: 普二
 day: four
 ---
 

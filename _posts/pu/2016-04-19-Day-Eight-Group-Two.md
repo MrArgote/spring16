@@ -1,6 +1,5 @@
 ---
 title: 詞性 Review, Group 2 words, and fb feed
-class: 普二
 day: eight
 ---
 

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: more annoyed dog, cats scared of cucumbers, and Ain't Got No
-class: 普二
 day: three
 ---
 
