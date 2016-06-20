@@ -6,7 +6,7 @@ layout: default
 	<h1>Which one is your class?</h1>
         {% for my_page in site.pages %}
           {% if my_page.class %}
-          <a class="post-meta-class" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          <a class="post-meta-class-index" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
 	<br>

@@ -180,8 +180,8 @@
     color: $grey-color;
     &-class {
 	    border-radius: 15% / 50% ;
+	    padding: 7px;
 	    margin: 0.5em;
-	    padding: 1em;
 	    background-color: #FCD;
 	    display: inline-block;
     }
@@ -191,6 +191,10 @@
 	    background-color: #DDF;
     }
 }
+.post-meta-class-index {
+	@extend .post-meta-class;
+	    padding: 1em;
+	    }
 
 .post-link {
     display: block;
@@ -204,7 +208,6 @@
                     fill: $grey-color-dark;
                 }
             }
-  
 }
 
 /**
