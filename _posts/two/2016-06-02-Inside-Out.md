@@ -1,5 +1,4 @@
 ---
-class: 英二
 day: thirteen
 ---
 

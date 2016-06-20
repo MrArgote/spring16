@@ -1,13 +1,16 @@
 ---
 title: "Back To School From Winter Holidays"
-class: 英二
 day: one
 ---
+
+- Make Dropbox folder
+- What Is The Dog Thinking?
+- Shirataki Station
 
 - On the cover of your new notebooks write: English name, Chinese name, student number, and seat number.
 
 - Write today's date at the top of today's page.
-- 
+
 - Share your thoughts on the following items.
 
 ## Make A New Dropbox Folder To Share Your Work

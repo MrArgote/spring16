@@ -1,10 +1,7 @@
 ---
 title: Here It Goes Again and McDonald's Coming Out Commercial
-class: 英二
 day: four
 ---
-
-## Contents
 
 - Dropbox Reminder
 - Textbook Progress
@@ -13,13 +10,17 @@ day: four
 
 ## Dropbox Reminder
 
-antonio.argote@gmail.com
+Make a directory and share with me.
 
 ## Textbook Progress
 
 You should be finishing Unit 17 this week.
 
 ## Ok Go, Here It Goes Again
+
+{% include lyrics/OK-Go-Here-It-Goes-Again.md  %}
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/dTAAsCNK7RA" frameborder="0" allowfullscreen></iframe>
 
 ### Vocabulary
 
@@ -40,15 +41,19 @@ They pose. They do poses.
 The clothes: one band member is wearing red pants, he nearly fell down.
 
 ## McDonald's Taiwan Commercial
-	- The dad is very good.
-	- The young man is very brave
-		- He's got guts.
-		- Has has guts.
-	- The young man is gay.
-	- The coffee cup is green. I like the design of the cup. I like the design of the McCafe cups.
-	- I think this is a good commercial for... (Taiwan society // McDonald's // gay people // )  because... (it helps to... // it makes people understand better // it helps some people have a conversation...)
-	- Do you like the slogan, 
-	- gay, lesbian, bisexual, transgender, queer, homosexual, heterosexual.
 
+The dad is very good.  
+The young man is very brave  
+He's got guts.  
+He has guts.  
+The young man is gay.  
+The coffee cup is green.  
+I like the design of the cup.  
+I like the design of the McCafe cups.  
+I think this is a good commercial for... (Taiwan society // McDonald's // gay people // )  because... (it helps to... // it makes people understand better // it helps some people have a conversation...)  
+Do you like the slogan,  
 
+gay, lesbian, bisexual, transgender, queer, homosexual, heterosexual.
+
+{% include clips/videos/McDonald-s-Coming-Out.md %}
 

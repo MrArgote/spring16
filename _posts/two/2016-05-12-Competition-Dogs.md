@@ -1,10 +1,6 @@
 ---
-
-class: 英二
 day: ten
 ---
-
-## Contents
 
 - Dog Competition
 

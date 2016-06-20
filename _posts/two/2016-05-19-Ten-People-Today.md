@@ -1,28 +1,22 @@
 ---
-class: 英二
 day: eleven
 ---
 
-## Contents
-
 - Miscellaneous
+- Drone Delivery
 - When You Suck At Working Out
 - Hotline Bling
 - Wacky Coffee Mug
 - World's Ugliest Endangered Animals
 
-<!-- excerpt -->
-
 ### Miscellaneous
 
-Write in your notebook every week.
+Write in your notebook every week.  
 Finish your textbooks.
 
 Looking To The Future:
 
 - By the end of final exam time, finish your textbook.
-
-
 
 distraction =
 attraction = 吸引

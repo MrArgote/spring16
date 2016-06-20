@@ -1,14 +1,15 @@
 ---
 title: we'll see
 day: seven
-class: 英二
 ---
 
-
-## Contents
-  - Housekeeping
-  - The dog that doesn't learn English
-  - Molten Cheese
+- Housekeeping
+- The dog that doesn't learn English
+- Molten Cheese
+- The House Robbery
+- The Wind Beasts
+- S'mores
+- Innocent on Death Row
 
 ## Housekeeping
 
@@ -16,8 +17,9 @@ Hand out replacement notebooks.
 Share your Dropbox.
 
 ## The dog that doesn't learn English
- 
-## Cheese Makes Everything Better
+
+
+## Molten Cheese Makes Everything Better
 
 Raclette
 Raclette de Chévre (goat Raclette)

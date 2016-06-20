@@ -1,14 +1,12 @@
 ---
-class: 英二
 day: nine
 ---
-
-## Contents
 
 - Modern Vending Machines
 - Dillon, The Dog That Couldn't Walk
 - Work Hours Around The World
 - Radiohead's Burn The Witch
+- Puppets
 
 ## Modern Vending Machines
 

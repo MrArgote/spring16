@@ -1,7 +1,5 @@
 ---
-class: 英二
 day: twelve
-
 ---
 
 - A Musical Game of Note Recognition

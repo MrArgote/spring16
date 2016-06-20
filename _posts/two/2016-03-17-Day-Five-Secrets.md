@@ -1,10 +1,8 @@
 ---
 title: Secrets
-class: 英二
 day: five
 ---
 
-## Contents
 - Reminder of Responsibilities
 - Art
 	- The Seven Arts
@@ -28,8 +26,8 @@ Picasso
 
 ### Secrets, Encryption and Security
 
-Bypassing security.
-No password needed.
-Invading a phone.
+Bypassing security.  
+No password needed.  
+Invading a phone.  
 Breaking security.
 
