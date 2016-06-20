@@ -1,25 +1,25 @@
 
 {% highlight lyrics %}
-It could be ten, 
-but then again, 
-I can't remember 
+It could be ten,
+but then again,
+I can't remember
 half an hour since a quarter to four.
 
-Throw on your clothes, 
-the second side of Surfer Rosa, 
-and you leave me 
+Throw on your clothes,
+the second side of Surfer Rosa,
+and you leave me
 with my jaw on the floor.
 
 [Chorus:]
-Just when you think 
+Just when you think
 you're in control,
 
-just when you think 
+just when you think
 you've got a hold,
 
 just when you get on a roll,
-here it goes, 
-here it goes, 
+here it goes,
+here it goes,
 here it goes again.
 
 Oh, here it goes again.
@@ -29,37 +29,37 @@ should have known again,
 but here it goes again.
 Oh, here it goes again.
 
-It starts out easy, 
-something simple, 
-something sleazy, 
-something inching past 
+It starts out easy,
+something simple,
+something sleazy,
+something inching past
 the edge of the reserve.
 
-Now through lines of the cheap venetian blinds 
+Now through lines of the cheap venetian blinds
 your car is pulling off of the curb.
 
 [Chorus]
-Just when you think 
-that 
+Just when you think
+that
 you're in control,
 
-just when you think 
-that 
+just when you think
+that
 you've got a hold,
 
 just when you get on a roll,
-here it goes, 
-here it goes, 
+here it goes,
+here it goes,
 here it goes again.
 
-Oh, here it goes again. 
-I should have known, 
-should have known, 
-should have known again, 
-but here it goes again. 
+Oh, here it goes again.
+I should have known
+should have known,
+should have known again,
+but here it goes again.
 Oh, here it goes again.
 
-I guess 
+I guess
 there’s got to be a break in the monotony,
 but Jesus,
 when it rains how it pours.
