@@ -1,30 +1,27 @@
 ---
-class: 英一
 day: twelve
 ---
 
 - Reminder
-- Today's Jinggao (警告)
+- Review of Simple Sentences
 - The Beauty and The Beast
 - Kids Try Yoga
 
 
-Reminder
+## Reminder
 
 Make Dropbox folder.
 
-
-警告 for Ren.
-
+## Review of Simple Sentences, Made of Pronouns and Verbs
 
 代名詞 = Pronouns
-1 singular        -  I
-2 singular/plural - you
-3 singular        -  he
-3 singular        - she
-3 singular        - it
-1 plural          - we
-3 plural          - they
+1st person singular        -  I  
+2nd person singular/plural - you  
+3rd person singular        -  he  
+3rd person singular        - she  
+3rd person singular        - it  
+1st person plural          - we  
+3rd person plural          - they
 
 
 The desk is beautiful.  
@@ -53,6 +50,7 @@ She studies.
 The first thing you can write about is about
 
 ## The Beauty And The Beast.
+
 with Emma Watson
 
 movie trailer
