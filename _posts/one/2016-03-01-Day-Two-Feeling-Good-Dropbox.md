@@ -1,6 +1,5 @@
 ---
 title: Feeling Good
-class: 英一
 day: two
 ---
 

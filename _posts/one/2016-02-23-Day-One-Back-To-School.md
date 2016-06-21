@@ -1,6 +1,5 @@
 ---
 title: Back To School
-class: 英一
 day: one
 ---
 

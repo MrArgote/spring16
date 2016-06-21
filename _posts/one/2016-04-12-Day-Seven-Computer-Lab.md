@@ -1,6 +1,5 @@
 ---
 title: No Computer Lab
-class: 英一
 day: seven
 ---
 

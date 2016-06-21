@@ -1,6 +1,5 @@
 ---
 title: Textbook and Dropbox
-class: 英一
 day: three
 ---
 

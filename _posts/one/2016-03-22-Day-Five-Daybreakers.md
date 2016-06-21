@@ -1,6 +1,5 @@
 ---
 title: Daybreakers
-class: 英一
 day: five
 ---
 

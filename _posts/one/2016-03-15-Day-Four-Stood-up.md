@@ -1,6 +1,5 @@
 ---
 title: Stood Up
-class: 英一
 day: four
 ---
 
